@@ -7,4 +7,4 @@ The Book Store is a mini project mainly aim to make use of amazon machine learni
       * Text to Speech
       * Sentiment analysis
       
-The amazon serices used are amazon textract, amazon translate, amazon polly and amazon comprehend.
+The amazon services used are amazon textract, amazon translate, amazon polly and amazon comprehend.
