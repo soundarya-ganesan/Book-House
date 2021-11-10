@@ -1,0 +1,39 @@
+ul, li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+li {
+    padding: 10px 15px;
+    background: #ccc;
+    float: left;
+    margin-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li.active {
+    background: #68b8c4;
+}
+
+.description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #f30;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+    display: none;
+}
+
+li.active .description {
+    display: block;
+}
