@@ -1,5 +1,4 @@
 # Book-Store
----
 
 The Book Store is a mini project mainly aim to make use of amazon machine learning APIs to real time use case. This project is developed using html,flask and python. Here the Book Store provides four basic services 
 
